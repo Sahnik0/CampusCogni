@@ -31,6 +31,7 @@ import {
   TrendingUp,
   Users,
   BookOpen,
+  Search,
   ArrowLeftRight
 } from "lucide-react"
 
@@ -364,6 +365,12 @@ export default function UserDashboard() {
                     <a href="/user/cv-builder">
                       <BookOpen className="h-4 w-4 mr-2" />
                       Build CV
+                    </a>
+                  </Button>
+                  <Button asChild variant="outline" className="w-full justify-start text-sm">
+                    <a href="https://ats-k2nm.onrender.com">
+                      <Search className="h-4 w-4 mr-2" />
+                      Check your ats score
                     </a>
                   </Button>
                 </div>
