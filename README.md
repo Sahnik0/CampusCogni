@@ -508,6 +508,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced analytics
 - [ ] Enterprise features
 
+sahnikbiswas.tech
+](https://www.sahnikbiswas.tech/)
 ---
 
 **Built with ❤️ by the CampusCogni Team**
